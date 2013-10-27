@@ -1,0 +1,10 @@
+README
+
+Einfache Scripte, welche den Output auf hdmi umstellen
+
+ARTEN:
+
+hdmi_switch - ändert den Output auf hdmi, wenn nochmal gestartet auch wider zurück
+hdmi_switch_vlc - diese Script wird über die "thunarScripte" aufgerufen, wird der VLC dann geschlossen ändert sich 
+alles wieder zurück
+hdmi_switch_wait - selbes wie oben nur wird gewartet, bis man Enter drückt
